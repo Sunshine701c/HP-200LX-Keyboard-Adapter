@@ -1,0 +1,15 @@
+This is the raw data that you can plug into keyboard-layout-editor.com
+You can also plug it into kbfirmware.com to generate a .hex file to program onto a teensy microcontroller. kbfirmware.com DOES NOT autogenerate the correct matrix, you have to enter it manually from matric info.txt
+
+
+
+[{a:6},"Esc",{a:5},"\\\n|",{a:6},"F1","F2","F3","F4","F5","F6","F7","F8","F9","F10",{a:4},"\nPG UP\n\n\n\n\n\n\nUP",{a:7},"ON"],
+[{a:6},"TAB",{a:4},"1\n!","2\n@","3\n#","4\n$","5\n^","6\n&","7\n(","8\n)",{a:7},"BKSC",{a:4},"\nINS\n\n\n\n\n\n\nDEL","\nHOME\n\n\n\n\n\n\nLEFT","\nPG DN\n\n\n\n\n\n\nDOWN","\nEND\n\n\n\n\n\n\nRIGHT"],
+["Q","W","E","R","T","Y","U","I","O","P","7\n[","8\n]","9\n{","/\n}"],
+[{x:0.5},"A","S","D","F","G","H","J","K","L",{x:0.5},"4\n;","5\n:","6\n'","*\n\""],
+[{a:6},"CRTL",{a:4},"Z","X","C",{a:7},"",{a:4},"V","B","N",{a:6,w:2},"ENTER",{a:4},"1\n<","2\n>","3\n?","-\n_"],
+[{a:6},"SHIFT","ALT","Fn",{a:7,w:3},"",",",".",{a:4},"\nBREAK\n\n\n\n\n\n\nMENU",{a:7},"SHIFT",{a:4},"0\nCAPS",".\n`","=\n~","+\n%"]
+
+
+
+

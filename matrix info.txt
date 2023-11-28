@@ -1,0 +1,144 @@
+pins
+1	row0
+2	collum0
+3	c1
+4	r1
+5	c2
+6	r2
+7	c3
+8	r3
+9	r4
+10	c4
+11	r5
+12	r6
+13	r7
+14	c5
+15	c6
+16	c7
+17	c8
+18	c9
+19	c10
+20	c11
+21	r8
+22	c12
+23	c13
+24	c14
+
+
+rows
+0:b0
+1:b3
+2:d0
+3:d2
+4:d3
+5:c7
+6:d5
+7:d4
+8:f5
+
+
+
+collums
+0:b1
+1:b2
+2:b7
+3:d1
+4:c6
+5:d6
+6:d7
+7:b4
+8:b5
+9:b6
+10:f7
+11:f6
+12:f4
+13:f1
+14:f0
+
+
+
+esc	r7, c9
+\	r7, c8
+f1	r7, c5
+f2	r7, c7
+f3	r7, c6
+f4	r7, c4
+f5	r7, c1
+f6	r7, c0
+f7	r7, c3
+f8	r5, c1
+f9	r5, c4
+f10	r5, c0
+up	r5, c3
+on	r8, c2
+
+tab	r4, c9
+filer	r4, c8
+appt	r4, c5
+phone	r4, c7
+memo	r4, c6
+quicken	r5, c9
+lotuc	r5, c8
+hpcalc	r5, c6
+more	r5, c7
+bckspc	r5, c5
+del	r4, c4
+left	r4, c1
+down	r4, c0
+right	r4, c3
+
+q	r6, c9
+w	r6, c8
+e	r6, c5
+r	r6, c11
+t	r6, c7
+y	r6, c6
+u	r6, c4
+i	r6, c1
+o	r6, c0
+p	r6, c3
+7	r0, c4
+8	r0, c1
+9	r0, c0
+/	r0, c3
+
+a	r0, c9
+s	r0, c8
+d	r0, c5
+f	r0, c11
+g	r0, c7
+h	r0, c6
+j	r2, c6
+k	r2, c7
+l	r2, c5
+4	r2, c4
+5	r2, c1
+6	r2, c0
+*	r2, c3
+
+ctrl	r8, c12
+z	r2, c9
+x	r2, c8
+c	r1, c11
+v	r1, c9
+b	r1, c8
+n	r1, c6
+m	r1, c7
+enter	r1, c5
+1	r1, c4
+2	r1, c1
+3	r1, c0
+-	r1, c3
+
+shift	r8, c13
+alt	r3, c9
+fn	r8, c14
+space	r3, c8
+,	r3, c6
+.	r3, c7
+menu	r3, c5
+shift	r8, c10
+0	r3, c4
+.	r3, c1
+=	r3, c0
++	r3, c3
